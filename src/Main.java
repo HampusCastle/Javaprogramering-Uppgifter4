@@ -9,5 +9,9 @@ public class Main {
         */
 
         System.out.println("New comment");
+
+        int num = 0;
+        System.out.println(num);
+
     }
 }
